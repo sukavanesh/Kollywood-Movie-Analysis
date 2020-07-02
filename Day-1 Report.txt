@@ -1,0 +1,25 @@
+Team: Data Sharks
+
+Day 1 Report
+Task: Data Collection
+
+This Folder will contain the datasets that we created.
+
+Data Collection Process:
+>>We searched for random movie datasets available in the internet.
+>>We found that websites have more meaningful information as we were unable to find a perfect and suitable dataset.
+>>We used a Web Crawler Tool - "Parsehub" to crawl data from websites.
+>>Website we crawled from: 
+	LINK --->	https://timesofindia.indiatimes.com/entertainment/top-rated-movies/tamil/best-movies/2020/2742916
+>>We found that the website contained the data of the top best 30 movies released every year with 
+	i)User rating
+	ii)Critic rating
+	iii)Movie information
+	iv)Synopsis
+>>We managed to extract the data for the past 10 years and we thought about collecting 300 top best movies of the decade.
+>>The collected data required some initial cleaning.
+>>We used python (Jupyter Notebook) for the dataset to be ready and perfect. 
+>>Enclosed Documents: 
+	Initial Data Cleaning.ipynb
+	Movie300.xlsx (Excel file)
+	Movie300.csv (CSV file)
