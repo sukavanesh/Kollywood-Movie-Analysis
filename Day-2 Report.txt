@@ -1,0 +1,25 @@
+Team: Data Sharks
+
+Day 2 Report
+Task: Data Visualization
+
+This Folder will contain the notebook(ipynb file) with the visualizations we made.
+
+Data Visualization Process:
+>>We discussed about the different hypothesis that we could make with the data we have and shortlisted a few from below:
+	1. Visualize the data to find the Actor with most films in top 30 list. (Most Dominating Actor)
+	2. Visualize the data to find the Actress with most films in top 30 list. (Most Dominating Actress)
+	3. Visualize the distribution of User Rating.
+	4. Visualize and Analyze the genre of the movies in the dataset.
+	5. Visualize the Censorship Certificate of the movies in the dataset.
+	6. Visualise the Movie release trends with respect to Release Month.
+>>We were able to visualize all the above discussed hypothesis successfully.
+>>We used Google Colaboratory - Online cloud-based notebook environment. (colab.research.google.com)
+>>We started with some required data cleaning steps and then proceeded to visulaize the discussed hypothesis.
+>>Conclusion Observed:
+	1. The most dominating lead actor of the decade - Vijay Sethupathi
+	2. The most dominating lead actress of the decade - Nayanthara
+>>Enclosure:
+	i)Movie300 V1.ipynb
+	ii)Movie300 V1.html
+	iii)Movie300 V1.pdf
