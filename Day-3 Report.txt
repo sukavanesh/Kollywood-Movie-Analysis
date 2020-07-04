@@ -1,0 +1,24 @@
+Team: Data Sharks
+
+Day 3 Report
+Task: Machine Learning Implementation 
+
+Dataset Cleaning Process:
+>>Inspite of cleaning the dataset we still had to deal the movie runtime. It was a little tricky to deal it with python we had several errors which we were unable to solve. Finally we used excel formulas and some tricky operations with excel to clean up the dataset.
+>>After necessary data cleaning and visualizing it, we planned to to see for better ways of implementing any ML algo to the dataset we had. Then we figured out Multi-Variate Linear Regression would be suitable and used sci-kit learn library to implement the algorithm.
+>>Input Variables we used:
+	1. Movie Genre Number
+	2. Movie Certification Number
+	3. Release Month
+	4. Runtime in Minutes
+	5. Movie Critic Rating
+>>Target Variable: Movie User Rating
+>>After making predictions with our ML model, we made the predicted values as a data frame and exported it as an excel file. (Machine_Predictions.xlsx)
+>>After dealing with the ML Part, we again focussed on analysing the data and finding insights. (This time with the machine's predictions included)
+>>We used python (Jupyter Notebook & Google Colab) and Libre Office for the data cleaning and ML implementation. 
+>>Enclosed Documents: 
+	Movie300 Revised V1.xlsx (Excel - Cleaned)
+	Movie300_ML_Implementation.ipynb (Python - implementation)
+	Movie300_ML_Implementation.pdf
+	Movie300_ML_Implementation.html
+	Machine_Predictions.xlsx
