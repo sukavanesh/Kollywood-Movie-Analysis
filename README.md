@@ -19,3 +19,11 @@ Data Analysis | Data Visualisation | Machine Learning | Multivariate Linear Regr
 >> Movie300_ML_Implementation.pdf
 >> Movie300_ML_Implementation.html
 >> Machine_Predictions.xlsx
+
+#Day 4 Commits: Optimisation of the entire process
+>> Movie300 Revised V2.xlsx (Excel - Cleaned)
+>>	Movie300_ML_Implementation1.ipynb (Python - implementation)
+>>	Movie300_ML_Implementation1.pdf
+>>	Movie300_ML_Implementation1.html
+>> Machine_Predictions.xlsx
+>>	Survey.xlsx
